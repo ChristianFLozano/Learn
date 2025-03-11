@@ -8,7 +8,6 @@ export default function ActivityCard(props){
 
     const goToPage = (navigate) => {
         navigation(navigate)
-        
     }
     
     return(
